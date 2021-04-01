@@ -5,5 +5,3 @@ Código desta API foi totalmente refatorado para atender ao Padrão DDD de forma
 Adicionalmente foi implementada a Persistência de dados Via ORM Entity Framework e também a exibição do Swagger de docmentação.
 
 A apliação também suporta o funcionament em Container Docker.
-
-
